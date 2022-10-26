@@ -1,0 +1,26 @@
+{
+  "name": "sism-reports",
+  "version": "1.0.0",
+  "description": "Sistema de consultas e informes de sism",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnDeev/SISM-REPORTS.git"
+  },
+  "author": "JONDEV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnDeev/SISM-REPORTS/issues"
+  },
+  "homepage": "https://github.com/JohnDeev/SISM-REPORTS#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

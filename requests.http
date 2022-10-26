@@ -1,0 +1,5 @@
+### get 
+http://localhost:6660/user
+
+###  satisfactionSurvey
+http://localhost:5000/api/v1/adriana/search/?function=satisfactionSurvey
